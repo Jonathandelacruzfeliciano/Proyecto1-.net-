@@ -1,0 +1,21 @@
+C:\nomina\app de Nomina\app de Nomina\bin\Debug\app de Nomina.exe
+C:\nomina\app de Nomina\app de Nomina\bin\Debug\app de Nomina.pdb
+C:\nomina\app de Nomina\app de Nomina\obj\x86\Debug\app_de_Nomina.Form1.resources
+C:\nomina\app de Nomina\app de Nomina\obj\x86\Debug\app_de_Nomina.Properties.Resources.resources
+C:\nomina\app de Nomina\app de Nomina\obj\x86\Debug\app de Nomina.csproj.GenerateResource.Cache
+C:\nomina\app de Nomina\app de Nomina\obj\x86\Debug\app de Nomina.exe
+C:\nomina\app de Nomina\app de Nomina\obj\x86\Debug\app de Nomina.pdb
+C:\nomina\app de Nomina\app de Nomina\obj\x86\Debug\app_de_Nomina.FrmLogin.resources
+C:\nomina\app de Nomina\app de Nomina\obj\x86\Debug\app_de_Nomina.frmMenu.resources
+C:\nomina\app de Nomina\app de Nomina\obj\x86\Debug\app_de_Nomina.Form2.resources
+C:\nomina\app de Nomina\app de Nomina\obj\x86\Debug\app_de_Nomina.FrmNomina.resources
+C:\nomina\app de Nomina\app de Nomina\obj\x86\Debug\app_de_Nomina.FrmConsultarNominas.resources
+C:\nomina\app de Nomina\app de Nomina\obj\x86\Debug\app_de_Nomina.FrmConsultaEmpleados.resources
+C:\nomina\app de Nomina\app de Nomina\obj\x86\Debug\app_de_Nomina.FrmConsultaUsuarios.resources
+C:\nomina\app de Nomina\app de Nomina\obj\x86\Debug\app_de_Nomina.FrmEmpleados.resources
+C:\nomina\app de Nomina\app de Nomina\obj\x86\Debug\app_de_Nomina.FrmUsuarios.resources
+C:\nomina\app de Nomina\app de Nomina\obj\x86\Debug\app de Nomina.csprojResolveAssemblyReference.cache
+C:\nomina\app de Nomina\app de Nomina\bin\Debug\app de Nomina.exe.config
+C:\nomina\app de Nomina\app de Nomina\obj\x86\Debug\app_de_Nomina.reporteEmpleado.resources
+C:\nomina\app de Nomina\app de Nomina\obj\x86\Debug\RdlCompile.cache
+C:\nomina\app de Nomina\app de Nomina\obj\x86\Debug\RdlCompile.compiled
